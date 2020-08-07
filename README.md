@@ -60,11 +60,11 @@ Através de um prompt de comando:
 $ npm install -g yarn
 
 #Entrar na pasta do backend</br>
-$ yarn install
+$ yarn install</br>
 $ yarn start
 
 #Entrar na pasta do frontend</br>
-$ yarn install
+$ yarn install</br>
 $ yarn start
 
 </ul>
