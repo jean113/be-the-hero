@@ -34,7 +34,7 @@ Este aplicativo está disponível no GitHub: https://github.com/jean113/be-the-h
 <p>
 
 <b>Preview</b></br>
-<img src = "https://github.com/jean113/book/blob/master/frontend/src/preview/preview.gif" />
+<img src = "https://github.com/jean113/be-the-hero/blob/master/frontend/src/preview/preview.gif" />
 
 </p>
 
