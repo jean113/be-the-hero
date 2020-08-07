@@ -25,6 +25,7 @@ Este aplicativo está disponível no GitHub: https://github.com/jean113/be-the-h
   <li>Visual Studio Code - Editor de código-fonte</li>
   <li>Node JS - backend </li>
   <li>React JS - frontend</li>
+  <li>SqLite - banco de dados</li>
 </ul>
 
 </p>
